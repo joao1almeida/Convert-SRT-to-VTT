@@ -8,6 +8,6 @@ Utility program to convert .srt subtitles to .vtt subtitles, with a simple GUI.
 Windows OS, with .NET Framework 4.5.2
 
 ## Built With
-Visual Studio 2015
-C#.NET
-Target framework: .NET Framework 4.5.2
+* Visual Studio 2015
+* C#.NET
+* Target framework: .NET Framework 4.5.2
