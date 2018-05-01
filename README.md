@@ -14,7 +14,7 @@ Windows OS, with .NET Framework 4.5.2
 
 # Solution classes
 
-## The program has the following classes:
+## The program contains the following classes:
 * Form1.cs  
 The code-behind file of the (only) windows form.  
 
