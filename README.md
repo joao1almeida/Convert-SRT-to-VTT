@@ -12,6 +12,9 @@ Windows OS, with .NET Framework 4.5.2
 * C#.NET
 * Target framework: .NET Framework 4.5.2
 
+## Source code
+"SOURCE" folder contains the Microsoft Visual Studio solution.
+
 # Solution classes
 
 ## The program contains the following classes:
